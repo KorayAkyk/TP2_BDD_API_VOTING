@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP2_BDD_API_VOTING", "TP2_BDD_API_VOTING.csproj", "{875EB9F9-8CE9-4CAB-BE0B-427B8F850B1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowProject_TP2_BDD_API_VOTING", "SpecFlowProject_TP2_BDD_API_VOTING\SpecFlowProject_TP2_BDD_API_VOTING.csproj", "{71C08245-64B3-47BC-81DE-E2B95DA8AB81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{875EB9F9-8CE9-4CAB-BE0B-427B8F850B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875EB9F9-8CE9-4CAB-BE0B-427B8F850B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875EB9F9-8CE9-4CAB-BE0B-427B8F850B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875EB9F9-8CE9-4CAB-BE0B-427B8F850B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71C08245-64B3-47BC-81DE-E2B95DA8AB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C08245-64B3-47BC-81DE-E2B95DA8AB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C08245-64B3-47BC-81DE-E2B95DA8AB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C08245-64B3-47BC-81DE-E2B95DA8AB81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
